@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\GApprenants\GApprenants\bin\Debug\GApprenants.exe.config
+C:\Users\Admin\source\repos\GApprenants\GApprenants\bin\Debug\GApprenants.exe
+C:\Users\Admin\source\repos\GApprenants\GApprenants\bin\Debug\GApprenants.pdb
+C:\Users\Admin\source\repos\GApprenants\GApprenants\obj\Debug\GApprenants.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GApprenants\GApprenants\obj\Debug\GApprenants.Form1.resources
+C:\Users\Admin\source\repos\GApprenants\GApprenants\obj\Debug\GApprenants.Properties.Resources.resources
+C:\Users\Admin\source\repos\GApprenants\GApprenants\obj\Debug\GApprenants.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GApprenants\GApprenants\obj\Debug\GApprenants.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GApprenants\GApprenants\obj\Debug\GApprenants.exe
+C:\Users\Admin\source\repos\GApprenants\GApprenants\obj\Debug\GApprenants.pdb
